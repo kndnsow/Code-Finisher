@@ -1,0 +1,3 @@
+This is a log file.
+It has a .log extension.
+The cleaner should probably ignore it unless .log is added to SUPPORTED_EXTENSIONS.

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root><item id="1"><name>Test Item 1</name><value>100</value></item><item id="2">
+<name>Test Item 2</name>
+    <value>200</value>    </item>
+
+    <nested> <element attr="test"/> </nested></root>

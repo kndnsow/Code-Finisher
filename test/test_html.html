@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test HTML</title>
+    <!-- This is an HTML comment -->
+
+    <meta charset="utf-8"> <!-- Trailing comment should remove -->
+
+    <style>
+        /* CSS comment inside style tag */
+        body {
+            /* Indented comment */
+            font-family: sans-serif;
+        }
+
+
+    </style>
+    <!--
+        Multi-line
+        HTML comment.
+    -->
+</head>
+<body>
+
+    <h1>Test Page</h1>
+
+    <p data-comment="<!-- This should remain -->">Some text.</p>
+
+    <script>
+        // JS comment inside script tag
+        let x = 10; // trailing JS comment
+        /* JS Block comment */
+    </script>
+
+
+</body>
+</html>

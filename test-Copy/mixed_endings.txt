@@ -1,0 +1,7 @@
+This line ends with LF.
+This line ends with CRLF.
+This line ends with LF.
+This line ends with classic CR.
+This line has trailing spaces.   
+
+Another LF line.

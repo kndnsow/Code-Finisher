@@ -1,0 +1,5 @@
+{ "name": "Test JSON", "version": "1.0",
+    "enabled" : true, "items": [ 1,2,
+        3,{"key" : "value" } ] , "settings" : {
+    "mode":"test" , "level" : 5
+} }
