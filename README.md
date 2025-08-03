@@ -3,7 +3,7 @@
 A cross-platform desktop application for cleaning and formatting code files.  
 Built in Python with a modern PyQt6 GUI, it removes comments and extra blank lines, normalizes line endings, and pretty-prints JSON/XML. Ideal for streamlining code cleanup across multiple languages.
 
-![Application Screenshot](https://github.com/kndnsow/Code-Finisher/raw/main/Screenshot/Screenshot_0.png)
+![Application Screenshot](https://github.com/kndnsow/Code-Finisher/raw/main/Screenshots/Screenshot_0.png)
 
 - **File & Directory Selection**  
   Process individual files or entire project directories (recursively).  
@@ -34,7 +34,7 @@ Built in Python with a modern PyQt6 GUI, it removes comments and extra blank lin
 
 ## Screenshot
 
-![Code Cleaner Preview](https://github.com/kndnsow/Code-Finisher/raw/main/Screenshot/Screenshot_1.png)
+![Code Cleaner Preview](https://github.com/kndnsow/Code-Finisher/raw/main/Screenshots/Screenshot_1.png)
 
 ### Prerequisites
 
